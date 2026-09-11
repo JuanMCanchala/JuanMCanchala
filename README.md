@@ -1,61 +1,37 @@
-<h1 align="center">Hi 👋, I'm Juan Manuel Canchala</h1>
-<h3 align="center">Passionate programmer FullStack developer</h3>
+### Juan Manuel Canchala
 
-- 🌱 I’m currently learning **Node.js**
+Fullstack developer and AI engineer based in Cali, Colombia. I take web products from zero to production and build the AI agents that run inside them: React/Next.js on the front, Python and Node on the back, AWS underneath.
 
-- 👨‍💻 All of my projects are available at [https://juancanchala.com/](https://juancanchala.com/)
+Right now I'm an **AI Engineer at [Funnelchat](https://funnelchat.com)**, where I build _Superagentes_ (LLM/RAG agents that talk to leads using each company's own data) and _NOVA_, an assistant that operates the whole platform for the user (FastAPI on AWS). I'm also finishing Systems Engineering at Pontificia Universidad Javeriana Cali.
 
-- 📫 How to reach me **canchalajuanmanuel@gmail.com**
+AWS Certified Cloud Practitioner · AWS Certified AI Practitioner
 
-- ⚡ Fun fact **I play chess**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/juan manuel canchala jimenez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan manuel canchala jimenez" height="30" width="40" /></a>
-<a href="https://instagram.com/juanm_canchala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juanm_canchala" height="30" width="40" /></a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-</p>
+#### Selected projects
+
+| Project                                                                             | What it does                                                                                                                                                                                           | Stack                               |
+| ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------- |
+| [**fuga**](https://github.com/JuanMCanchala/fuga)                                   | Agent that _proves_ data leaks in Firestore security rules by exploiting them, then patches and re-verifies. CLI, web and MCP server. [Live demo](https://fuga-two.vercel.app)                         | TypeScript, Bedrock, RAG, MCP       |
+| [**aegis**](https://github.com/JuanMCanchala/aegis)                                 | Conversational DLP that stops sensitive company data from leaking into AI tools and teaches people why. Platanus Hack 26. [Live](https://aegis-panel.onrender.com/colaborador/landing)                 | Python, LLM classifier, local proxy |
+| [**centinela**](https://github.com/JuanMCanchala/centinela)                         | Voice agent that calls post-op patients in Colombian Spanish and escalates to a human with deterministic, cited clinical rules. Tech Sphere Challenge 2026. [Demo video](https://youtu.be/o6HEGjZ64vo) | Python, voice AI, RAG               |
+| [**Sentinel**](https://github.com/JuanMCanchala/HackathonNextCaft)                  | Real-time, zero-shot incident detection on video (theft, aggression, falls). Switching domains means changing a YAML file, not retraining a model.                                                     | Python, VLMs, Convex, TypeScript    |
+| [**codefest-adastra-2026**](https://github.com/JuanMCanchala/codefest-adastra-2026) | Multilingual vector knowledge base (retrieval without generation), evaluated with NDCG@10 and F1@3.                                                                                                    | Python, FAISS, BGE-M3               |
+| [**chess-motor-web**](https://github.com/JuanMCanchala/chess-motor-web)             | Chess study and analysis suite with Stockfish, shipped as a desktop app.                                                                                                                               | TypeScript, React, Tauri            |
+
+#### Shipped at work
+
+- **Workbit**: agency management SaaS with built-in AI, built from scratch on a fully cloud architecture (Flash Growth Agency).
+- **Cloni**: WhatsApp sales automation with 6 AI agents that qualify, quote and close.
+- **SIVA**: stablecoin neobank covering the website, the core system and the Flutter mobile app (DNACodex).
+- 40+ WordPress, WooCommerce and Shopify sites delivered and maintained for clients in Spain (2021–2025).
+
+#### Stack
+
+`TypeScript` `React` `Next.js` `Node.js` `Python` `FastAPI` `Django` `Flutter` `PostgreSQL` `Supabase` `MongoDB` `Docker` `AWS` `LLMs / RAG / agents`
+
+#### Contact
+
+[LinkedIn](https://www.linkedin.com/in/juan-canchala) · [canchalajuanmanuel@gmail.com](mailto:canchalajuanmanuel@gmail.com)
+
+Spanish (native) · English (intermediate). Off the keyboard, I play chess.
