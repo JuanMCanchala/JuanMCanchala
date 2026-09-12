@@ -20,6 +20,9 @@ AWS Certified Cloud Practitioner · AWS Certified AI Practitioner
 | [**ad-astra-retrieval**](https://github.com/JuanMCanchala/ad-astra-retrieval) | Multilingual vector knowledge base (retrieval without generation), evaluated with NDCG@10 and F1@3.                                                                                                    | Python, FAISS, BGE-M3               |
 | [**kallpa-chess**](https://github.com/JuanMCanchala/kallpa-chess)             | Chess study and analysis suite with Stockfish, shipped as a desktop app.                                                                                                                               | TypeScript, React, Tauri            |
 
+| [**poker-lab**](https://github.com/JuanMCanchala/poker-lab)                         | Poker study suite with a real GTO solver (CFR+), verified against the analytical solution of the clairvoyance game. Native Rust engine, WASM build, Tauri desktop app. | Rust, WebAssembly, Tauri, Svelte     |
+| [**blackjack-strategy**](https://github.com/JuanMCanchala/blackjack-strategy)       | Basic strategy, Hi-Lo counting, index deviations and Kelly bet sizing — all validated by a Monte Carlo simulator over millions of hands. | Python, Monte Carlo, game theory     |
+
 #### Shipped at work
 
 - **Workbit**: agency management SaaS with built-in AI, built from scratch on a fully cloud architecture (Flash Growth Agency).
