@@ -28,7 +28,6 @@ AWS Certified Cloud Practitioner · AWS Certified AI Practitioner
 - **Workbit**: agency management SaaS with built-in AI, built from scratch on a fully cloud architecture (Flash Growth Agency).
 - **Cloni**: WhatsApp sales automation with 6 AI agents that qualify, quote and close.
 - **SIVA**: stablecoin neobank covering the website, the core system and the Flutter mobile app (DNACodex).
-- 40+ WordPress, WooCommerce and Shopify sites delivered and maintained for clients in Spain (2021–2025).
 
 #### Stack
 
